@@ -1,16 +1,14 @@
-# grocery_app_01
+# Support
 
-A new Flutter project.
+https://sociabuzz.com/syarifhidayatullah2020/tribe
 
-## Getting Started
+# UI/UX
 
-This project is a starting point for a Flutter application.
+https://dribbble.com/shots/16013328-Grocery-App
 
-A few resources to get you started if this is your first Flutter project:
+# Preview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![OnBoard]('assets/preview/on_board.png')
+![HomePage]('assets/preview/home_page.png')
+![Detail]('assets/preview/detail1.png')
+![Detail]('assets/preview/detail2.png')
