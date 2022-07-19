@@ -10,6 +10,6 @@ https://dribbble.com/shots/16013328-Grocery-App
 
 ![OnBoard](assets/preview/on_board.png)
 ![HomePage](assets/preview/home_page.png)
-![Detail](assets/preview/detail1.png)
+![Detail](assets/preview/detail1.png width="300px")
 ![Detail](assets/preview/detail2.png)
 ![Detail]<img src="assets/preview/detail1.png" alt="Detail" width="300px">
