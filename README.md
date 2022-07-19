@@ -10,12 +10,7 @@ https://dribbble.com/shots/16013328-Grocery-App
 
 ## Preview
 
-<!-- <img src="assets/preview/on_board.png" alt="OnBoard" width="217" >
-<img src="assets/preview/home_page.png" alt="HomePage" width="217" >
-<img src="assets/preview/detail1.png" alt="Detail" width="217" >
-<img src="assets/preview/detail2.png" alt="Detail" width="217" > -->
-
-[[assets/preview/on_board.png|width=200px]]
-[[assets/preview/home_page.png|width=200px]]
-[[assets/preview/detail1.png|width=200px]]
-![preview](assets/preview/detail2.png){ width=200 }
+<img src="assets/preview/on_board.png" alt="OnBoard" width="200">
+<img src="assets/preview/home_page.png" alt="HomePage" width="200">
+<img src="assets/preview/detail1.png" alt="Detail" width="200">
+<img src="assets/preview/detail2.png" alt="Detail" width="200">
