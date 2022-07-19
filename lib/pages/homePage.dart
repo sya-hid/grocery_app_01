@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:grocery_app_01/constants.dart';
 import 'package:grocery_app_01/models/categories.dart';
 import 'package:grocery_app_01/models/products.dart';
-import 'package:grocery_app_01/pages/detail_page.dart';
+import 'package:grocery_app_01/pages/detailPage.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

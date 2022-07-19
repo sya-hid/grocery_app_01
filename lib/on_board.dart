@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:grocery_app_01/constants.dart';
-import 'package:grocery_app_01/pages/main_page.dart';
+import 'package:grocery_app_01/pages/mainPage.dart';
 
 class OnBoard extends StatefulWidget {
   const OnBoard({Key? key}) : super(key: key);
@@ -35,7 +35,7 @@ class _OnBoardState extends State<OnBoard> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Text(
-                  'Buy Groceries Easily With Us',
+                  'Buy Groceries\nEasily With Us',
                   textAlign: TextAlign.center,
                   style: GoogleFonts.poppins(
                     fontSize: 38,

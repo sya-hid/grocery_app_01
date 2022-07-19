@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:grocery_app_01/constants.dart';
-import 'package:grocery_app_01/pages/home_page.dart';
+import 'package:grocery_app_01/pages/homePage.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);
