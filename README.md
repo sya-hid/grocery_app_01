@@ -8,8 +8,7 @@ https://dribbble.com/shots/16013328-Grocery-App
 
 # Preview
 
-![OnBoard](assets/preview/on_board.png)
-![HomePage](assets/preview/home_page.png)
-![Detail](assets/preview/detail1.png width="300px")
-![Detail](assets/preview/detail2.png)
-![Detail]<img src="assets/preview/detail1.png" alt="Detail" width="300px">
+<img src="assets/preview/on_board.png" alt="OnBoard" width="300px">
+<img src="assets/preview/home_page.png" alt="HomePage" width="300px">
+<img src="assets/preview/detail1.png" alt="Detail" width="300px">
+<img src="assets/preview/detail2.png" alt="Detail" width="300px">
