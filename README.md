@@ -15,7 +15,7 @@ https://dribbble.com/shots/16013328-Grocery-App
 <img src="assets/preview/detail1.png" alt="Detail" width="217" >
 <img src="assets/preview/detail2.png" alt="Detail" width="217" > -->
 
-![preview](assets/preview/on_board.png){ width=200px }
-![preview](assets/preview/home_page.png){ width=50% }
-![preview](assets/preview/detail1.png){ width=200 }
+![preview](assets/preview/on_board.png | width=200)
+![preview](assets/preview/home_page.png | width=200)
+![](assets/preview/detail1.png | width=200)
 ![preview](assets/preview/detail2.png){ width=200 }
