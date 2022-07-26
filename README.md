@@ -8,6 +8,10 @@ https://sociabuzz.com/syarifhidayatullah2020/tribe
 
 https://dribbble.com/shots/16013328-Grocery-App
 
+## Youtube
+
+https://youtu.be/AFgf6n7Af_A
+
 ## Preview
 
 <p align="middle">
